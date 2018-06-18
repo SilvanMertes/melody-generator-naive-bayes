@@ -10,3 +10,6 @@ The program produces nice melodies. These melodies are based on a 6-4-1-5-chord 
 #Code
 Code can be found either in the "Eclipse-Project"-directory as an Eclipse-Project, or in the "Raw Code"-directory as raw src-files. 
 Feel free to make suggestions to improve the project or to directly work on the code.
+
+#Language
+The program is developed in German language. Feel free to ask for further language-support
